@@ -1,7 +1,7 @@
 {
   "name": "prisma",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js and TypeScript project using Prisma ORM 7 and PostgreSQL.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,5 +26,13 @@
     "prisma@7.10.1": true,
     "@prisma/engines@7.10.1": true,
     "esbuild@0.28.2": true
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebMansoh/First_Prisma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CalebMansoh/First_Prisma/issues"
+  },
+  "homepage": "https://github.com/CalebMansoh/First_Prisma#readme"
 }
